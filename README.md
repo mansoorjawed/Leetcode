@@ -1,6 +1,6 @@
 # Leetcode
 ### Problems completed: 3
-	[[Easy problems|Easy]]: 3
+	[[Easy problems|Easy]]: 4
 	[[Medium Problems|Medium]]: 0
 	[[Hard Problems|Hard]]: 0
 	
